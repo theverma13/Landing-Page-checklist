@@ -6,20 +6,28 @@
 - [ ] Main Headline  
 - [ ] Subheadline
 
+
+
 **2) Hero Section**  
 - [ ] Visuals (Image/Video)  
 - [ ] Call-to-Action (CTA) Button  
 - [ ] Supporting Text
+
+
 
 **3) Value Proposition**  
 - [ ] Benefits  
 - [ ] Unique Selling Points (USPs)  
 - [ ] Trust Signals (awards, certifications)
 
+
+
 **4) Features/Solutions**  
 - [ ] Feature List  
 - [ ] Icons/Visuals  
 - [ ] Short Descriptions
+
+
 
 **5) Social Proof**  
 - [ ] Testimonials  
@@ -32,14 +40,20 @@
 - [ ] Secondary CTA  
 - [ ] CTA Placement
 
+
+
 **7) Benefits/Use Cases**  
 - [ ] Problem-Solution Framework  
 - [ ] Scenarios/Examples
+
+
 
 **8) Pricing Section**  
 - [ ] Pricing Tiers  
 - [ ] Comparison Table  
 - [ ] Discounts/Offers
+
+
 
 **9) FAQ Section**  
 - [ ] Common Questions  
